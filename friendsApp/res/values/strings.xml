@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PhoneGap_jqm_demoActivity!</string>
+    <string name="app_name">朋友圈</string>
+
+</resources>
